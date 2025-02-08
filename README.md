@@ -10,9 +10,9 @@
         <td>RK3566</td>
         <td>YF_023Dv6</td>
         <td>
-        <a href="">Android_11_HDMI_EN </a><br/>
-        <a href="">Debian_11_HDMI_EN </a><br/>
-        <a href="">Ubuntu_20.04_HDMI_EN </a><br/>
+        <a href="http://154.211.12.38:9999/share/85eRZqZ4">Android_11_HDMI_EN </a><br/>
+        <a href="http://154.211.12.38:9999/share/h8sNu7MP">Debian_11_HDMI_EN </a><br/>
+        <a href="http://154.211.12.38:9999/share/YmaeJOvK">Ubuntu_20.04_HDMI_EN </a><br/>
         </td>
         <td>password：SOL</td>
     </tr>
